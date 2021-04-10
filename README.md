@@ -1,0 +1,1 @@
+# View-installation-of-GCC-C-C-Compiler-on-windows-10-
